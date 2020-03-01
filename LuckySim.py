@@ -1,0 +1,16 @@
+from WoW_Requests import WoW_Requests
+#wow_requests = WoW_Requests("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK")
+from Character import Character
+#dk = Character("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK", "Tarren Mill", "Nnoggie")
+#dh = Character("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK", "Tarren Mill", "Sicklikeme")
+#druid = Character("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK", "Tarren Mill", "Lørgok")
+#hunter = Character("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK", "Tarren Mill", "Rogerbrown")
+#mage = Character("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK", "Tarren Mill", "Scrype")
+#monk= Character("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK", "Tarren Mill", "Justwaitm")
+#pally= Character("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK", "Tarren Mill", "Potterpally")
+#priest= Character("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK", "Tarren Mill", "Joshpriest")
+#rogue = Character("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK", "Tarren Mill", "Yliajo")
+#shammy = Character("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK", "Tarren Mill", "Pottershaman")
+#warrior= Character("eu", "bdfa7a3c9a86456383681a27b7f08d3c", "PxCB8MAXBO5e4jkem8SjFWmxj9syVzoK", "Tarren Mill", "Revvez")
+warlock= Character("bdfa7a3c9a86456383681a27b7f08d3c", "y4dC8CQMDlJwptKz6TcskIWWA03K65G7", "twisting nether", "pipasstd", "eu")
+print("")
